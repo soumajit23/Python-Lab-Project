@@ -27,4 +27,3 @@ with open('Students.csv', encoding="utf8") as f:
             print(line) 
     f.close()
     quit()
-    
